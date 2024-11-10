@@ -34,7 +34,7 @@ Before you begin, ensure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gemini-chat.git
+git clone https://github.com/mohitkothari-dev/AIGeneratedChatApp.git
 cd gemini-chat
 ```
 
